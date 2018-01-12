@@ -1,0 +1,6 @@
+C:\Users\Codou\Desktop\Entire Desktop\Class Projects\BinaryOperator\BinaryOperator\bin\Debug\BinaryOperator.exe.config
+C:\Users\Codou\Desktop\Entire Desktop\Class Projects\BinaryOperator\BinaryOperator\bin\Debug\BinaryOperator.exe
+C:\Users\Codou\Desktop\Entire Desktop\Class Projects\BinaryOperator\BinaryOperator\bin\Debug\BinaryOperator.pdb
+C:\Users\Codou\Desktop\Entire Desktop\Class Projects\BinaryOperator\BinaryOperator\obj\Debug\BinaryOperator.csprojResolveAssemblyReference.cache
+C:\Users\Codou\Desktop\Entire Desktop\Class Projects\BinaryOperator\BinaryOperator\obj\Debug\BinaryOperator.exe
+C:\Users\Codou\Desktop\Entire Desktop\Class Projects\BinaryOperator\BinaryOperator\obj\Debug\BinaryOperator.pdb
